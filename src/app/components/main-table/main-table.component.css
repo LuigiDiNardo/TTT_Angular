@@ -1,0 +1,25 @@
+div {
+    display: grid;
+    height: 180px;
+
+    grid-template-columns: 60px 60px 60px;
+    grid-template-rows: 60px 60px 60px;
+    grid-gap: 0px;
+}
+
+app-cell {
+    border: 1px black solid;
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    width: 70px;
+    margin-top: 30%;
+}

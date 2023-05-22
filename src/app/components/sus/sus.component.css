@@ -1,0 +1,7 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-image: url("src\img\amongUsTwerk.gif");
+    background-size: contain;
+    margin-top: 15%;
+}
